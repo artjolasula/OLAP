@@ -170,7 +170,6 @@ invalid syntax (<string>, line 1)
 
 
 
-
 This is NOT a problem with Groq.
 It means that the AI is generating text that is not pure Python code, and you are executing it using:
 
